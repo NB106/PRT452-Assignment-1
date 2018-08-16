@@ -7,7 +7,7 @@ Unit Test and Refactoring Questions
 
   a. Return the gradient, distance and equation of the line when the user enters two
      coordinates.
-  b. Refactor your code
+  b. Refactor your code.
   c. Create a Git directory for your assignment (including word or pdf documents and
      programming code)
   d. Capture screenshots and write briefly the steps you have taken to create this
